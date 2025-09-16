@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm currently a 2nd-year Computer Science and Engi
 
 ## 🚀 About Me
 
-- 👨‍🎓 I’m a 2nd-year Computer Science and Engineering (CSE) student.
-- 🧑‍💻 I’m currently learning Python, HTML, CSS, and C.
+- 👨‍🎓 I’m a 3rd-year Computer Science and Engineering (CSE) student.
+- 🧑‍💻 I’m currently learning HTML, CSS, JavaScript, Java and C.
 - 💡 I’m a beginner, but I am eager to explore more languages and frameworks.
 - 📚 I’m always looking to learn new concepts in programming and technology.
 
 
 ## 💻 My Skills
 
-- **Languages**: Python 3, C, HTML, CSS
+- **Languages**: Java, C, HTML, CSS, JavaScript
 
 
 ## 🎉 Fun Facts
