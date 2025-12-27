@@ -1,24 +1,21 @@
-# Hi there, I'm Aman Jain 👋
-
-Welcome to my GitHub profile! I'm currently a 2nd-year Computer Science and Engineering student, and I’m exploring the world of programming and technology. I’m just getting started, but I’m passionate about learning and building projects.
-
-## 🚀 About Me
-
-- 👨‍🎓 I’m a 3rd-year Computer Science and Engineering (CSE) student.
-- 🧑‍💻 I’m currently learning HTML, CSS, JavaScript, Java and C.
-- 💡 I’m a beginner, but I am eager to explore more languages and frameworks.
-- 📚 I’m always looking to learn new concepts in programming and technology.
+# 💫 About Me:
+AI-powered learning tools, web development projects, and problem-solving with DSA<br>Open-source projects, web applications, and Java/Python-based systems<br>Advanced DSA, system design basics, and scalable backend architecture<br>Data Structures & Algorithms, Java backend development, and modern web technologies<br>Java, HTML/CSS, GitHub, beginner-friendly DSA, and project structuring<br>I break code more often than I write it — and that’s how I learn faster 😄<br>
 
 
-## 💻 My Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-jain-8b1868326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjainx0@gmail.com) 
 
-- **Languages**: Java, C, HTML, CSS, JavaScript
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmanJainx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmanJainx0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎉 Fun Facts
+---
+[![](https://visitcount.itsvg.in/api?id=AmanJainx0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- I enjoy solving problems and improving my coding skills through practice and projects.
-- I'm passionate about exploring AI, machine learning, and how to build AI systems from the ground up.
-
-
-Thanks for visiting my GitHub profile! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
