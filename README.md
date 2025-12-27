@@ -1,9 +1,15 @@
 # 💫 About Me:
-AI-powered learning tools, web development projects, and problem-solving with DSA<br>Open-source projects, web applications, and Java/Python-based systems<br>Advanced DSA, system design basics, and scalable backend architecture<br>Data Structures & Algorithms, Java backend development, and modern web technologies<br>Java, HTML/CSS, GitHub, beginner-friendly DSA, and project structuring<br>I break code more often than I write it — and that’s how I learn faster 😄<br>
+🤖 Working on AI-powered learning tools, modern web development projects, and strengthening problem-solving skills with DSA<br>
+🌍 Looking to collaborate on open-source projects, web applications, and Java/Python-based systems<br>
+🧠 Seeking help with advanced DSA, system design fundamentals, and building scalable backend architectures<br>
+🌱 Currently learning Data Structures & Algorithms, Java backend development, and modern web technologies<br>
+💬 Ask me about Java, HTML/CSS, GitHub, beginner-friendly DSA, and effective project structuring<br>
+⚡ Fun fact: I break code more often than I write it — and that’s how I learn faster 😄<br>
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-jain-8b1868326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjainx0@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-8b1868326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjainx0@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
